@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
+  <diagram name="Page-1" id="tvGjNEOzGYkgbXMvhx0d">
+    <mxGraphModel dx="876" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IfznW1smhP2WFUxezU9e-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IfznW1smhP2WFUxezU9e-1" target="IfznW1smhP2WFUxezU9e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfznW1smhP2WFUxezU9e-1" value="使用某种魔法发现老板靠近" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="445" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IfznW1smhP2WFUxezU9e-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IfznW1smhP2WFUxezU9e-2" target="IfznW1smhP2WFUxezU9e-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfznW1smhP2WFUxezU9e-2" value="使用某种魔法让显示器上的窗口消失，替换成工作内容" style="whiteSpace=wrap;html=1;align=center;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="445" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IfznW1smhP2WFUxezU9e-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IfznW1smhP2WFUxezU9e-5" target="IfznW1smhP2WFUxezU9e-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfznW1smhP2WFUxezU9e-5" value="确认老板的离开" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IfznW1smhP2WFUxezU9e-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfznW1smhP2WFUxezU9e-7" target="IfznW1smhP2WFUxezU9e-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="480" />
+              <mxPoint x="1120" y="560" />
+              <mxPoint x="280" y="560" />
+              <mxPoint x="280" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfznW1smhP2WFUxezU9e-7" value="让显示器上的工作内容替换为摸鱼内容" style="whiteSpace=wrap;html=1;spacing=27;" vertex="1" parent="1">
+          <mxGeometry x="919" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
